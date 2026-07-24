@@ -1,0 +1,18 @@
+# Fichiers de configuration utilisateur Qt
+*.user
+*.user.*
+
+# Dossiers de build / compilation
+build*/
+*.o
+*.a
+*.so
+*.dylib
+Makefile*
+
+# Exécutables
+TempsDeRoute
+
+# Fichiers temporaires Linux/Qt
+*~
+.qmake.stash
